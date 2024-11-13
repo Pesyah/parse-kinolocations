@@ -19,7 +19,6 @@ with open('links.txt', 'r', encoding='utf-8') as f:
 data = []
 count = 0
 for url in urls:
-    start = time.time()
     count += 1
 
     driver.get(url)
@@ -34,7 +33,7 @@ for url in urls:
     description = soup.find('div', class_='js-store-prod-text t-store__prod-popup__text t-descr t-descr_xxs').find('div').contents[0]
     address = soup.find('div', class_='js-store-prod-text t-store__prod-popup__text t-descr t-descr_xxs').find('div').contents[-1]
 
-    img_folder = f"img/{title.replace(' ', '_')}"
+    img_folder = f"img/{count}"
     os.makedirs(img_folder, exist_ok=True)
 
     slider_items = soup.select('.t-slds__wrapper meta[itemprop="image"]')
@@ -55,13 +54,10 @@ for url in urls:
         "Адрес": address,
         "Фото": img_folder,
     })
-    print(start - time.time())
-    break
 
 driver.quit()
 
 file_path = 'Локации.xlsx'
-print(data)
 df = pd.read_excel(file_path)
 
 new_data_df = pd.DataFrame(data)
