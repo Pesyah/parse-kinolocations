@@ -19,24 +19,35 @@ with open('links.txt', 'r', encoding='utf-8') as f:
 data = []
 count = 0
 for url in urls:
-    count += 1
-
-    driver.get(url)
-
-    time.sleep(1)
-
-    soup = BeautifulSoup(driver.page_source, 'html.parser')
-
-    # Начинаем парсить
-    title = soup.find('meta', property='og:title')['content']
-    type_ = soup.find('div', class_='t-descr').get_text(strip=True)
-    description = soup.find('div', class_='js-store-prod-text t-store__prod-popup__text t-descr t-descr_xxs').find('div').contents[0]
-    address = soup.find('div', class_='js-store-prod-text t-store__prod-popup__text t-descr t-descr_xxs').find('div').contents[-1]
+    title = ''
+    type_ = ''
+    description = ''
+    address = ''
 
     img_folder = f"img/{count}"
     os.makedirs(img_folder, exist_ok=True)
 
-    slider_items = soup.select('.t-slds__wrapper meta[itemprop="image"]')
+    try:
+        count += 1
+
+        driver.get(url)
+
+        time.sleep(1)
+
+        soup = BeautifulSoup(driver.page_source, 'html.parser')
+
+        # Начинаем парсить
+        title = soup.find('meta', property='og:title')['content']
+        type_ = soup.find('div', class_='t-descr').get_text(strip=True)
+        description = soup.find('div', class_='js-store-prod-text t-store__prod-popup__text t-descr t-descr_xxs').get_text(strip=True)
+        address = soup.find('div', class_='js-store-prod-text t-store__prod-popup__text t-descr t-descr_xxs').find('div').contents[-1].text
+        description = description.split(address)[0] # вырезаю адрес из всего текста
+
+    except Exception as e:
+        print(e)
+        print(url)
+
+    slider_items = soup.find('div', class_='t-slds__items-wrapper t-slds_animated-none t-slds__nocycle').select('meta[itemprop="image"]')
     for i, meta in enumerate(slider_items, start=1): # сохраним все картинки
         img_url = meta['content']
 
