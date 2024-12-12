@@ -45,13 +45,13 @@ def parse_excel_to_json(file_path, output_json_path, photo_column, fields_to_inc
         data = data.dropna(how='all')
     
     data_json = data.to_dict(orient='records')
+    locationsSubTypes = ['Усадьбы, памятники архитектуры', 'Мосты', 'Поля и карьеры', 'Аэропорт', 'Спортивные сооружения', 'Канатная дорога', 'Промышленные зоны', 'Храмы и монастыри', 'Нижний Новгород', 'Достопримечательность', 'Заброшенные и недостроенные объекты', 'Набережные', 'Городские площади, улицы', 'Парки', 'Вокзалы', 'Учреждения культуры', 'Зеленые «уголки»', 'Арт-объекты', '']
     for record in data_json:
         direct = record[photo_column]
         photos = []
         for photo in os.listdir(direct):
             photos.append(f'public/{direct}/{photo}')
         record[photo_column] = photos
-    
     for record in data_json:
         if type(record['Название']).__name__ != 'str':
             record['Название'] = 'null'
@@ -74,7 +74,11 @@ def parse_excel_to_json(file_path, output_json_path, photo_column, fields_to_inc
 
         record['translitName'] = transliterate(record['name'])
         record['city'] = {"id": 652}
-
+        record['locationsTypes'] = {"id": 1}
+        if type(record['Тип локации']).__name__ != 'str':
+            record['Тип локации'] = ''
+        record['locationsSubTypes'] = {"id": locationsSubTypes.index(record['Тип локации']) + 1}
+        del record['Тип локации']
 
     # Сохранение JSON в файл
     with open(output_json_path, 'w', encoding='utf-8') as json_file:
@@ -85,6 +89,6 @@ def parse_excel_to_json(file_path, output_json_path, photo_column, fields_to_inc
 file_path = "Локации.xlsx"
 output_json_path = "output.json"
 photo_column = "Фото"
-fields_to_include = ["Название", "Описание", "Адрес", "Фото"]
+fields_to_include = ["Название", "Описание", "Адрес", "Фото", 'Тип локации']
 
 parse_excel_to_json(file_path, output_json_path, photo_column, fields_to_include)
