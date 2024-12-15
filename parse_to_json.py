@@ -120,7 +120,6 @@ def parse_excel_to_json(file_path, output_json_path, photo_column, fields_to_inc
         del record['Фото']
 
         record['translitName'] = transliterate(record['name'])
-        record['city'] = {"id": 652}
         record['locationsTypes'] = {"id": 1}
 
         record['locationsSubTypes'] = {"id": locationsSUBTYPES[record['Тип локации']]}
