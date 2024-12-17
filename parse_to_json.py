@@ -98,7 +98,7 @@ def parse_excel_to_json(file_path, output_json_path, photo_column, fields_to_inc
         for photo in os.listdir(direct):
             photos.append(f'public/{direct}/{photo}')
         record[photo_column] = photos
-    
+    print(list(set([x['Работа с дронами'] for x in data_json])))
     for record in data_json:
         if type(record['Название']).__name__ != 'str':
             record['Название'] = 'null'
@@ -135,7 +135,11 @@ def parse_excel_to_json(file_path, output_json_path, photo_column, fields_to_inc
         record['group'] =               record['Группа локации']
         record['feature'] =             record['Особенности']
         record['roadSurface'] =         record['Дорожное покрытие']
-        record['drones'] =              record['Работа с дронами']
+        if record['Работа с дронами'] == 'Требуется разрешения вблизи населенного пункта'\
+            or record['Работа с дронами'] == 'Требуется разрешение ':
+            record['dronesType'] = { "id": 3 }
+        else:
+            record['dronesType'] = { "id": 1 }
         record['requiresPermissions'] = record['Требует разрешений']
         record['limitation'] =          record['Ограничения']
         record['openingHours'] =        record['Часы работы']

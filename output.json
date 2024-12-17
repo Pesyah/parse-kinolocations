@@ -71,21 +71,23 @@
             "public/img/0/image_9.jpg"
         ],
         "translitName": "Nizhegorodskiy-kreml",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.327051, 44.005663",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:00 - 20:00",
@@ -115,21 +117,23 @@
             "public/img/1/image_9.jpg"
         ],
         "translitName": "Chkalovskaya-lestnitsa",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 13
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.32777, 44.008331",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования, т.к. объект находится близко к Кремлю",
         "openingHours": "Круглосуточно",
@@ -152,21 +156,23 @@
             "public/img/2/image_9.jpg"
         ],
         "translitName": "Nizhnevolzhskaya-naberezhnaya",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 19
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.331548, 44.000246",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Великолепные виды, историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -184,21 +190,23 @@
             "public/img/3/image_4.jpg"
         ],
         "translitName": "Naberezhnaya-Grebnogo-kanala",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 19
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.319839, 44.072839",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -225,21 +233,23 @@
             "public/img/4/image_9.jpg"
         ],
         "translitName": "Aleksandrovskiy-sad",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 12
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.329961, 44.019039",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -256,21 +266,23 @@
             "public/img/5/image_3.jpg"
         ],
         "translitName": "Park-imeni-Kulibina",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 12
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.315276, 44.008311",
         "availability": "Открыт для посещения",
         "group": "Места культуры и отдыха",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -289,21 +301,23 @@
             "public/img/6/image_5.jpg"
         ],
         "translitName": "Sormovskiy-park-kultury-i-otdykha",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 12
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.339133, 43.856893",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:00 - 22:00",
@@ -323,21 +337,23 @@
             "public/img/7/image_6.jpg"
         ],
         "translitName": "Park-800letiya-Nizhnego-Novgoroda",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 12
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.325715, 43.984704",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -358,21 +374,23 @@
             "public/img/8/image_7.jpg"
         ],
         "translitName": "Park-Shveytsariya",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 12
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.274947, 43.973434",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "05:00 - 23:00",
@@ -392,21 +410,23 @@
             "public/img/9/image_6.jpg"
         ],
         "translitName": "Shchelokovskiy-khutor",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 12
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.276009, 44.013398",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, музеи",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:00 - 17:00, пн, вт - выходной",
@@ -426,21 +446,23 @@
             "public/img/10/image_6.jpg"
         ],
         "translitName": "Mezhdunarodnyy-aeroport-imeni-V-P-Chkalova",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 16
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.220721, 43.790521",
         "availability": "Открыт для посещения",
         "group": "Режимные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Ряд ограничений и особые условия съёмок на режимных объектах / дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -460,21 +482,23 @@
             "public/img/11/image_6.jpg"
         ],
         "translitName": "Moskovskiy-vokzal",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 11
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.321895, 43.946123",
         "availability": "Открыт для посещения",
         "group": "Режимные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Ряд ограничений и особые условия съёмок на режимных объектах / дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -498,21 +522,23 @@
             "public/img/12/image_9.jpg"
         ],
         "translitName": "Rechnoy-vokzal",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 11
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.329657, 43.988011",
         "availability": "Открыт для посещения",
         "group": "Режимные объекты",
         "feature": "Великолепные виды, историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 17:00, сб, вс - выходной",
@@ -535,21 +561,23 @@
             "public/img/13/image_9.jpg"
         ],
         "translitName": "Kanavinskiy-most",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 14
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.327980, 43.972767",
         "availability": "Открыт для посещения",
         "group": "Режимные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Ряд ограничений и особые условия съёмок на режимных объектах / дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -572,21 +600,23 @@
             "public/img/14/image_9.jpg"
         ],
         "translitName": "Nizhegorodskiy-metromost",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 14
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.321062, 43.959490",
         "availability": "Открыт для посещения",
         "group": "Режимные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Ряд ограничений и особые условия съёмок на режимных объектах / дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -611,21 +641,23 @@
             "public/img/15/image_9.jpg"
         ],
         "translitName": "Borskiy-most",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 14
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.355699, 43.926989",
         "availability": "Открыт для посещения",
         "group": "Режимные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Ряд ограничений и особые условия съёмок на режимных объектах / дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -650,21 +682,23 @@
             "public/img/16/image_9.jpg"
         ],
         "translitName": "Kanatnaya-doroga",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 15
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.323558, 44.039268",
         "availability": "Открыт для посещения",
         "group": "Режимные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Ряд ограничений и особые условия съёмок на режимных объектах и опасных производственных объктах (ОПО) / дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "06:45 - 22:00",
@@ -690,21 +724,23 @@
             "public/img/17/image_9.jpg"
         ],
         "translitName": "Nizhegorodskaya-yarmarka",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.328324, 43.961313",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, музеи",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -736,21 +772,23 @@
             "public/img/18/image_9.jpg"
         ],
         "translitName": "Strelka",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.332945, 43.970431",
         "availability": "Открыт для посещения",
         "group": "Места культуры и отдыха",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -774,21 +812,23 @@
             "public/img/19/image_9.jpg"
         ],
         "translitName": "Stadion-Nizhniy-Novgorod",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 4
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.337386, 43.96461",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:00 - 21:00",
@@ -805,19 +845,21 @@
             "public/img/20/image_3.jpg"
         ],
         "translitName": "Zavod-Sapfir-rp-Ardatov",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 5
         },
+        "city": null,
         "coords": "55.239466, 43.087405",
         "availability": "Закрыт для свободного посещения, промышленная территория",
         "group": "Промышленные территории",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Ограничения и особые условия для осущетсвления съёмок в зонах с особыми использованиями территорий / дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 12:00; 13:00 - 17:00, сб, вс - выходной",
@@ -834,19 +876,21 @@
             "public/img/21/image_3.jpg"
         ],
         "translitName": "Podvore-SvyatoUspenskogo-muzhskogo-monastyrya--Florishcheva-pustyn",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": null,
         "coords": "56.423083, 42.645119",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Брусчатка, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования, т.к. объект находится близко к Кремлю",
         "openingHours": "График работы не указан",
@@ -863,21 +907,23 @@
             "public/img/22/image_3.jpg"
         ],
         "translitName": "Dom-kuptsa-Petra-Rukavishnikova-1880-goda-postroyki-s-vnutrennim-dvorikom-g-Chkalovsk",
-        "city": {
-            "id": 1068
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 1068
+        },
         "coords": "56.762543, 43.266570",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, земля ",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования, т.к. объект находится близко к Кремлю",
         "openingHours": "График работы не указан",
@@ -895,19 +941,21 @@
             "public/img/23/image_4.jpg"
         ],
         "translitName": "Usadba-GruzinskikhTurchaninovykh----vv-so-starinnym-parkom",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": null,
         "coords": "56.834200, 43.227270",
         "availability": "Закрыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Ограничения свободного прохода на территорию ",
         "openingHours": "График работы не указан",
@@ -924,21 +972,23 @@
             "public/img/24/image_3.jpg"
         ],
         "translitName": "Dom-v-kotorom-rodilsya-Chkalov-Valeriy-Pavlovich-V-dome--memorialnyy-muzey-VP-Chkalova",
-        "city": {
-            "id": 1068
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 1068
+        },
         "coords": "56.765073, 43.265766",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Брусчатка, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:00 - 17:30, пн - выходной",
@@ -955,21 +1005,23 @@
             "public/img/25/image_3.jpg"
         ],
         "translitName": "Dom-kultury-im-VP-Chkalova-g-Chkalovsk",
-        "city": {
-            "id": 1068
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 1068
+        },
         "coords": "56.763909, 43.265855",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "09:00 - 16:00, пн - выходной",
@@ -992,19 +1044,21 @@
             "public/img/26/image_9.jpg"
         ],
         "translitName": "Preobrazhenskaya-tserkov-g-Chkalovsk",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": null,
         "coords": "56.621206, 43.213978",
         "availability": "Находится на реставрации",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Брусчатка, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1021,19 +1075,21 @@
             "public/img/27/image_3.jpg"
         ],
         "translitName": "Tserkov-Rozhdestva-Bogoroditsy-g-Chkalovsk",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": null,
         "coords": "56.83617, 43.22906",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Брусчатка, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1050,19 +1106,21 @@
             "public/img/28/image_3.jpg"
         ],
         "translitName": "Kompleks-Nikolskoy-tserkvi-Nikolskaya-tserkov-Tserkov-Rozhdestva-Bogoroditsy-g-Chkalovsk",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": null,
         "coords": "56.647746, 43.065585",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники / заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Брусчатка, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1079,21 +1137,23 @@
             "public/img/29/image_3.jpg"
         ],
         "translitName": "Vodonapornaya-bashnya-g-Chkalovsk",
-        "city": {
-            "id": 1068
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 6
         },
+        "city": {
+            "id": 1068
+        },
         "coords": "56.769174, 43.260727",
         "availability": "Открыт для посещения",
         "group": "Заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -1112,19 +1172,21 @@
             "public/img/30/image_5.jpg"
         ],
         "translitName": "Kompleks-otdykha-Laguna-Yug-g-Chkalovsk",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 4
         },
+        "city": null,
         "coords": "56.653637, 43.180251",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Брусчатка, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 23:00 ",
@@ -1144,19 +1206,21 @@
             "public/img/31/image_6.jpg"
         ],
         "translitName": "OOO-Khaskikhaus-g-Chkalovsk",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 4
         },
+        "city": null,
         "coords": "56.666085, 43.181720",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:00 - 21:00 ",
@@ -1173,21 +1237,23 @@
             "public/img/32/image_3.jpg"
         ],
         "translitName": "Samolet-MIG21-g-Chkalovsk",
-        "city": {
-            "id": 1068
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 1068
+        },
         "coords": "56.764154, 43.266603",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, музеи",
         "feature": "Историческая значимость",
         "roadSurface": "Брусчатка, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1204,19 +1270,21 @@
             "public/img/33/image_3.jpg"
         ],
         "translitName": "Rubezh-oborony",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": null,
         "coords": "56.830527, 43.218860",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники / исторические места",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -1233,19 +1301,21 @@
             "public/img/34/image_3.jpg"
         ],
         "translitName": "Khram-v-chest-kazanskoy-ikony-Bozhey-Materi-s-Rozhentsevo",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": null,
         "coords": "57.04953, 46.546701",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Брусчатка, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1263,19 +1333,21 @@
             "public/img/35/image_4.jpg"
         ],
         "translitName": "Dom-dlya-otdykha-Okhotbaza",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 4
         },
+        "city": null,
         "coords": "57.278118, 46.435943",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1292,21 +1364,23 @@
             "public/img/36/image_3.jpg"
         ],
         "translitName": "Zona-otdykha-u-pruda-Kashcheev-kordon",
-        "city": {
-            "id": 742
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": {
+            "id": 742
+        },
         "coords": "54.877035, 43.779261",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1326,21 +1400,23 @@
             "public/img/37/image_6.jpg"
         ],
         "translitName": "Usadba-VI-Gomulina-Pavlovskiy-Istoricheskiy-muzey",
-        "city": {
-            "id": 735
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 735
+        },
         "coords": "55.967229, 43.064947",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:00 - 17:00, пн - выходной",
@@ -1358,21 +1434,23 @@
             "public/img/38/image_4.jpg"
         ],
         "translitName": "Usadba-PV-Shchetkina--kafe-Rus",
-        "city": {
-            "id": 735
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 735
+        },
         "coords": "55.96606, 43.064588",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1389,21 +1467,23 @@
             "public/img/39/image_3.jpg"
         ],
         "translitName": "Arkhitekturnyy-ansambl-ul-Nizhegorodskoy--kupecheskie-i-krestyanskie-osobnyaki-2oy-poloviny-v-nachala-",
-        "city": {
-            "id": 735
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 735
+        },
         "coords": "55.966912, 43.066438",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1422,21 +1502,23 @@
             "public/img/40/image_5.jpg"
         ],
         "translitName": "Vorsmenskiy-SvyatoTroitskiy-ostrovoezerskiy-monastyr",
-        "city": {
-            "id": 186
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 186
+        },
         "coords": "55.990387, 43.293646",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Брусчатка, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1454,21 +1536,23 @@
             "public/img/41/image_4.jpg"
         ],
         "translitName": "Khram-v-chest-ikony-Bozhiey-Materi-Vsekh-skorbyashchikh-Radost-g-Pavlovo",
-        "city": {
-            "id": 735
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 735
+        },
         "coords": "55.955317, 43.062639",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1489,21 +1573,23 @@
             "public/img/42/image_7.jpg"
         ],
         "translitName": "Sobor-v-chest-Presvyatoy-Zhivonachalnoy-Troitsy-g-Gorbatov",
-        "city": {
-            "id": 214
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 214
+        },
         "coords": "56.133121, 43.059189",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Брусчатка, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1521,21 +1607,23 @@
             "public/img/43/image_4.jpg"
         ],
         "translitName": "Khram-v-chest-ikony-Bozhiey-Materi-Vsekh-skorbyashchikh-Radost",
-        "city": {
-            "id": 214
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 214
+        },
         "coords": "56.130085, 43.042364",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1554,19 +1642,21 @@
             "public/img/44/image_5.jpg"
         ],
         "translitName": "Ozero-Klyuchik",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "55.952827, 43.326752",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -1583,21 +1673,23 @@
             "public/img/45/image_3.jpg"
         ],
         "translitName": "Usadba-GA-i-AA-Gruzinskikh--AG-Tolstoy--NE-Stogova",
-        "city": {
-            "id": 545
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 545
+        },
         "coords": "56.043367, 45.041555",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1614,21 +1706,23 @@
             "public/img/46/image_3.jpg"
         ],
         "translitName": "Magazin-IF-Pisareva",
-        "city": {
-            "id": 545
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 545
+        },
         "coords": "56.041793, 45.042939",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "09:00 - 12:00; 13:00 - 17:00, пт, сб - выходной",
@@ -1645,21 +1739,23 @@
             "public/img/47/image_3.jpg"
         ],
         "translitName": "Usadba-kuptsa-AF-Sergeeva",
-        "city": {
-            "id": 545
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 545
+        },
         "coords": "56.038876, 45.045499",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1676,21 +1772,23 @@
             "public/img/48/image_3.jpg"
         ],
         "translitName": "Pivovarennyy-zavod",
-        "city": {
-            "id": 545
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 5
         },
+        "city": {
+            "id": 545
+        },
         "coords": "56.035552, 45.056225",
         "availability": "Закрыт для свободного посещения, промышленная территория",
         "group": "Промышленные территории",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Ограничения и особые условия для осущетсвления съёмок в зонах с особыми использованиями территорий / дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 17:00",
@@ -1707,21 +1805,23 @@
             "public/img/49/image_3.jpg"
         ],
         "translitName": "Kafedralnyy-sobor-Vozneseniya-Gospodnya",
-        "city": {
-            "id": 545
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 545
+        },
         "coords": "56.04213, 45.043603",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 12:00; 13:00 - 17:00, сб, вс - выходной",
@@ -1738,19 +1838,21 @@
             "public/img/50/image_3.jpg"
         ],
         "translitName": "Makarev--Zheltovodskiy-Svyato--Troitskiy-zhenskiy-monastyr",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": null,
         "coords": "56.083757, 45.064965",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -1767,21 +1869,23 @@
             "public/img/51/image_3.jpg"
         ],
         "translitName": "Olenina-Olenya-gora",
-        "city": {
-            "id": 545
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": {
+            "id": 545
+        },
         "coords": "56.042677,45.020093",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -1798,21 +1902,23 @@
             "public/img/52/image_3.jpg"
         ],
         "translitName": "Lysaya-gora",
-        "city": {
-            "id": 545
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": {
+            "id": 545
+        },
         "coords": "56.050526,45.062190",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -1833,21 +1939,23 @@
             "public/img/53/image_7.jpg"
         ],
         "translitName": "Kulebakskie-polya",
-        "city": {
-            "id": 497
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 8
         },
+        "city": {
+            "id": 497
+        },
         "coords": "55.429716, 42.512492",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -1866,21 +1974,23 @@
             "public/img/54/image_5.jpg"
         ],
         "translitName": "Zdanie-byvshego-OAO-Rusich-zavod-radiouzlov",
-        "city": {
-            "id": 497
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 6
         },
+        "city": {
+            "id": 497
+        },
         "coords": "55.421971, 42.520272",
         "availability": "Открыт для посещения",
         "group": "Заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -1897,21 +2007,23 @@
             "public/img/55/image_3.jpg"
         ],
         "translitName": "Zdanie-vodonapornoy-bashni",
-        "city": {
-            "id": 497
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 6
         },
+        "city": {
+            "id": 497
+        },
         "coords": "55.423407, 42.520928",
         "availability": "Открыт для посещения",
         "group": "Заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -1930,19 +2042,21 @@
             "public/img/56/image_5.jpg"
         ],
         "translitName": "Dom-Berendeya",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "55.743431, 43.225009",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -1966,21 +2080,23 @@
             "public/img/57/image_9.jpg"
         ],
         "translitName": "Zabroshennyy-vospitatelnyy-dom",
-        "city": {
-            "id": 488
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 6
         },
+        "city": {
+            "id": 488
+        },
         "coords": "56.049050, 44.573595",
         "availability": "Открыт для посещения",
         "group": "Заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -2006,21 +2122,23 @@
             "public/img/58/image_9.jpg"
         ],
         "translitName": "Ekranoplan",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.363621, 43.868820",
         "availability": "Закрыт для свободного посещения, промышленная территория",
         "group": "Заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -2055,21 +2173,23 @@
             "public/img/59/image_9.jpg"
         ],
         "translitName": "Zavod-Krasnoe-Sormovo",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 5
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.365707, 43.874608",
         "availability": "Закрыт для свободного посещения, промышленная территория",
         "group": "Промышленные территории",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -2086,21 +2206,23 @@
             "public/img/60/image_3.jpg"
         ],
         "translitName": "Mochalnyi-ostrov",
-        "city": {
-            "id": 126
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": {
+            "id": 126
+        },
         "coords": "56.341897, 44.009373",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -2119,19 +2241,21 @@
             "public/img/61/image_5.jpg"
         ],
         "translitName": "Ozero-Bolshoe-Kirkideevo",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "55.704347, 43.435206",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -2149,21 +2273,23 @@
             "public/img/62/image_4.jpg"
         ],
         "translitName": "Ozero-Klyuchik",
-        "city": {
-            "id": 186
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": {
+            "id": 186
+        },
         "coords": "55.97507, 43.32617",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -2182,19 +2308,21 @@
             "public/img/63/image_5.jpg"
         ],
         "translitName": "Peshchery-Ichalki",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "55.443399, 44.502943",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля, камни",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -2228,21 +2356,23 @@
             "public/img/64/image_9.jpg"
         ],
         "translitName": "Pakgauzy-na-Strelke",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.334996, 43.974905",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "вт, ср - 10:00 - 18:00, чт - 12:00 - 20:00, пт, сб, вс - 11:00 - 19:00, пн - выходной",
@@ -2261,21 +2391,23 @@
             "public/img/65/image_5.jpg"
         ],
         "translitName": "Urochishche-Sluda",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.274489, 43.973351",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Асфальт, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -2296,19 +2428,21 @@
             "public/img/66/image_7.jpg"
         ],
         "translitName": "Usadba-Priklonskikh-Podvyaze",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": null,
         "coords": "56.170105, 43.350819",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:00 - 18:00 ",
@@ -2330,21 +2464,23 @@
             "public/img/67/image_8.jpg"
         ],
         "translitName": "Pamyatnik-olenyu-v-Nizhnem-Novgorode",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.332065, 44.012124",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -2362,21 +2498,23 @@
             "public/img/68/image_4.jpg"
         ],
         "translitName": "Dom-kuptsa-Ikonnikova",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.320347, 43.989364",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -2394,21 +2532,23 @@
             "public/img/69/image_4.jpg"
         ],
         "translitName": "Vdoviy-dom",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.307506, 43.986116",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -2426,21 +2566,23 @@
             "public/img/70/image_4.jpg"
         ],
         "translitName": "Zdanie-pervogo-detskogo-priyuta",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.318301, 43.988793",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -2457,21 +2599,23 @@
             "public/img/71/image_3.jpg"
         ],
         "translitName": "Chasovnya-Kazanskoy-ikony-Bozhiey-Materi",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.317328, 43.988236",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "11:00 - 18:00, сб, вс - выходной",
@@ -2490,21 +2634,23 @@
             "public/img/72/image_5.jpg"
         ],
         "translitName": "Usadba-kuptsa-AV-Markova",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.319774, 43.988972",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -2522,21 +2668,23 @@
             "public/img/73/image_4.jpg"
         ],
         "translitName": "Usadba-kuptsa-NS-Chesnokova",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.320205, 43.989775",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -2554,21 +2702,23 @@
             "public/img/74/image_4.jpg"
         ],
         "translitName": "Ansambl-usadby-M-P-Vodovozovoy--M-P-Solina",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.321693, 43.974778",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -2586,21 +2736,23 @@
             "public/img/75/image_4.jpg"
         ],
         "translitName": "Glavnyy-dom-kupchikhi-TIRyabininoy-na-Ilinskoy",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.320857, 43.990275",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -2617,21 +2769,23 @@
             "public/img/76/image_3.jpg"
         ],
         "translitName": "Dom-kultury-im-Sverdlova",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.322290, 44.000928",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "09:00 - 20:00",
@@ -2648,21 +2802,23 @@
             "public/img/77/image_3.jpg"
         ],
         "translitName": "Dvorets-kultury-im-Sergo-Ordzhonikidze",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.331339, 43.846383",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "09:00 - 17:00, сб,вс - выходной",
@@ -2680,21 +2836,23 @@
             "public/img/78/image_4.jpg"
         ],
         "translitName": "Zdanie-Dvortsa-kultury-Krasnaya-etna",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.292628, 43.91743",
         "availability": "Открыт для посещения (не используется)",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -2713,21 +2871,23 @@
             "public/img/79/image_5.jpg"
         ],
         "translitName": "Dvorets-kultury-avtozavoda",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.240128, 43.861447",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "09:00 - 22:00 ",
@@ -2747,21 +2907,23 @@
             "public/img/80/image_6.jpg"
         ],
         "translitName": "Tsentr-kultury-Rekord",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.323902, 44.004298",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "09:00 - 20:00",
@@ -2779,21 +2941,23 @@
             "public/img/81/image_4.jpg"
         ],
         "translitName": "Dvorets-kultury-Krasnoe-Sormovo",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.343678, 43.862472",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 23:00",
@@ -2811,19 +2975,21 @@
             "public/img/82/image_4.jpg"
         ],
         "translitName": "Baza-otdykha-Alsma",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 4
         },
+        "city": null,
         "coords": "56.535798, 44.114256",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Земля, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -2841,21 +3007,23 @@
             "public/img/83/image_4.jpg"
         ],
         "translitName": "Baza-otdykha-Lesnoy-klyuch",
-        "city": {
-            "id": 186
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 4
         },
+        "city": {
+            "id": 186
+        },
         "coords": "55.98013, 43.310924",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Земля, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -2874,19 +3042,21 @@
             "public/img/84/image_5.jpg"
         ],
         "translitName": "Gostinitsa-Malinovaya-sloboda",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 4
         },
+        "city": null,
         "coords": "56.520112, 44.117539",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Земля, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 21:00",
@@ -2903,19 +3073,21 @@
             "public/img/85/image_3.jpg"
         ],
         "translitName": "Sanatoriy-Gorodetskiy",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 4
         },
+        "city": null,
         "coords": "56.579945, 43.651107",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Земля, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 16:00",
@@ -2934,21 +3106,23 @@
             "public/img/86/image_5.jpg"
         ],
         "translitName": "Ilinskaya-tserkov",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.328244, 43.993671",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 20:00",
@@ -2966,21 +3140,23 @@
             "public/img/87/image_4.jpg"
         ],
         "translitName": "Khram-Vozneseniya-gospodnya",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.321396, 43.990778",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "07:00 - 20:00",
@@ -2998,21 +3174,23 @@
             "public/img/88/image_4.jpg"
         ],
         "translitName": "Tserkov-Znameniya-i-svyatykh-Zhen-Mironosits",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.324296, 43.995036",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 18:00",
@@ -3031,21 +3209,23 @@
             "public/img/89/image_5.jpg"
         ],
         "translitName": "Meshcherskoe-ozero",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.337398, 43.941864",
         "availability": "Открыт для посещения",
         "group": "Природные объекты, места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Земля, песок, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -3063,21 +3243,23 @@
             "public/img/90/image_4.jpg"
         ],
         "translitName": "Silikatnoe-ozero",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.367986, 43.782791",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, земля, песок",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -3097,21 +3279,23 @@
             "public/img/91/image_6.jpg"
         ],
         "translitName": "Arzamasskiy-park-im-Gaydara",
-        "city": {
-            "id": 40
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 12
         },
+        "city": {
+            "id": 40
+        },
         "coords": "55.400435, 43.833429",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:00 - 20:00, пн - выходной",
@@ -3131,19 +3315,21 @@
             "public/img/92/image_6.jpg"
         ],
         "translitName": "Shukhovskaya-bashnya-na-Oke",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": null,
         "coords": "56.193637, 43.543901",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "График работы не указан",
@@ -3167,19 +3353,21 @@
             "public/img/93/image_9.jpg"
         ],
         "translitName": "Muzeyzapovednik-A-S-Pushkina-Boldino",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": null,
         "coords": "55.001754, 45.307240",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "09:00 - 17:00, пн - выходной",
@@ -3196,21 +3384,23 @@
             "public/img/94/image_3.jpg"
         ],
         "translitName": "Muzeyno-turisticheskiy-kompleks-Gorod-masterov",
-        "city": {
-            "id": 218
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 218
+        },
         "coords": "56.642154, 43.463844",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, места культуры и отдыха",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:00 - 17:00, пн - выходной",
@@ -3231,21 +3421,23 @@
             "public/img/95/image_7.jpg"
         ],
         "translitName": "Pechyorskiy-Voznesenskiy-monastyr",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.323429, 44.049425",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "07:30 - 18:00",
@@ -3266,21 +3458,23 @@
             "public/img/96/image_7.jpg"
         ],
         "translitName": "Arkhitekturnyy-kompleks-kolonii-dlya-dushevnobolnykh-pri-sele-Lyakhovo-v-Nizhnem-Novgorode",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 6
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.235275, 43.975911",
         "availability": "Открыт для посещения",
         "group": "Заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "07:30 - 15:00",
@@ -3301,21 +3495,23 @@
             "public/img/97/image_7.jpg"
         ],
         "translitName": "Ozero-Toskanka",
-        "city": {
-            "id": 186
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": {
+            "id": 186
+        },
         "coords": "55.982726, 43.292531",
         "availability": "Открыт для посещения",
         "group": "Природные объекты, места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Земля, песок",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -3334,19 +3530,21 @@
             "public/img/98/image_5.jpg"
         ],
         "translitName": "Svyatoe-ozero-v-sele-Vladimirskoe-Svetloyar",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "56.818652, 45.093051",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды, историческая значимость",
         "roadSurface": "Земля, песок",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -3365,19 +3563,21 @@
             "public/img/99/image_5.jpg"
         ],
         "translitName": "Kamenishchenskiy-karer",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "55.583886, 45.032455",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля, песок",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "График работы не указан",
@@ -3395,21 +3595,23 @@
             "public/img/100/image_4.jpg"
         ],
         "translitName": "Usadba-Kamenskikh",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.327341, 44.024285",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -3428,21 +3630,23 @@
             "public/img/101/image_5.jpg"
         ],
         "translitName": "Usadba-kuptsa-Zaytseva",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.325295, 44.020449",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -3460,21 +3664,23 @@
             "public/img/102/image_4.jpg"
         ],
         "translitName": "Usadba-Stroganovykh",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.327286, 43.983277",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -3494,21 +3700,23 @@
             "public/img/103/image_6.jpg"
         ],
         "translitName": "Usadbadvorets-Rukavishnikova",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.329312, 44.016083",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "11:00 - 18:00",
@@ -3531,21 +3739,23 @@
             "public/img/104/image_9.jpg"
         ],
         "translitName": "Gosudarstvennyy-bank",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.320128, 43.998836",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "09:00 - 18:00",
@@ -3566,21 +3776,23 @@
             "public/img/105/image_7.jpg"
         ],
         "translitName": "Krasnye-kazarmy",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.331496, 44.001440",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -3599,21 +3811,23 @@
             "public/img/106/image_5.jpg"
         ],
         "translitName": "Tsarskiy-pavilon",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.322355, 43.947147",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -3632,21 +3846,23 @@
             "public/img/107/image_5.jpg"
         ],
         "translitName": "Blinovskiy-passazh",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.328249, 43.988451",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "07:00 - 20:00",
@@ -3663,21 +3879,23 @@
             "public/img/108/image_3.jpg"
         ],
         "translitName": "Nizhegorodskiy-zheleznodorozhnyy-muzey-Parovozy-Rossii",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.284236, 43.846091",
         "availability": "Открыт для посещения",
         "group": "Места культуры и отдыха",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "09:00 - 20:00",
@@ -3696,21 +3914,23 @@
             "public/img/109/image_5.jpg"
         ],
         "translitName": "Russkiy-muzey-fotografii",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.323872, 44.003471",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, места культуры и отдыха",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "11:00 - 19:00, пн - выходной",
@@ -3729,21 +3949,23 @@
             "public/img/110/image_5.jpg"
         ],
         "translitName": "Nizhegorodskiy-khudozhestvennyy-muzey",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.329643, 44.006373",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, места культуры и отдыха",
         "feature": "Великолепные виды, историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "вт, ср - 10:00 - 18:00, чт - 12:00 - 20:00, пт, сб, вс - 11:00 - 19:00, пн - выходной",
@@ -3761,21 +3983,23 @@
             "public/img/111/image_4.jpg"
         ],
         "translitName": "Ploshchad-Lyadova",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 7
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.308181, 43.985271",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -3795,21 +4019,23 @@
             "public/img/112/image_6.jpg"
         ],
         "translitName": "Ploshchad-Minina-i-Pozharskogo",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 7
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.327441, 44.006957",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -3827,21 +4053,23 @@
             "public/img/113/image_4.jpg"
         ],
         "translitName": "Ploshchad-Svobody",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 7
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.318201, 44.014790",
         "availability": "На момент 25.11.2024 - объект закрыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -3865,21 +4093,23 @@
             "public/img/114/image_9.jpg"
         ],
         "translitName": "Ploshchad-Gorkogo",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 7
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.314128,43.991481",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -3900,21 +4130,23 @@
             "public/img/115/image_7.jpg"
         ],
         "translitName": "Ploshchad-Markina",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 7
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.329082, 43.988507",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -3931,21 +4163,23 @@
             "public/img/116/image_3.jpg"
         ],
         "translitName": "Ploshchad-Sennaya",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 7
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56,322879 44,034508",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -3964,21 +4198,23 @@
             "public/img/117/image_5.jpg"
         ],
         "translitName": "Teatralnaya-ploshchad",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 7
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.323934, 44.002130",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость",
         "roadSurface": "Брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -3996,21 +4232,23 @@
             "public/img/118/image_4.jpg"
         ],
         "translitName": "Zhyul-Vern-na-vozdushnom-share",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.324159, 43.980856",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, места досуга и отдыха",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -4030,21 +4268,23 @@
             "public/img/119/image_6.jpg"
         ],
         "translitName": "Pochainskaya-ulitsa",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 7
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.326477, 43.995683",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -4061,21 +4301,23 @@
             "public/img/120/image_3.jpg"
         ],
         "translitName": "Zelenskiy-sezd",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 7
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.325595, 43.998094",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -4093,21 +4335,23 @@
             "public/img/121/image_4.jpg"
         ],
         "translitName": "Pereulok-Vakhitova",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 7
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.329432, 43.992278",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -4124,21 +4368,23 @@
             "public/img/122/image_3.jpg"
         ],
         "translitName": "Dom-Bekkera",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.31906, 44.000067",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -4159,21 +4405,23 @@
             "public/img/123/image_7.jpg"
         ],
         "translitName": "Dvorets-brakosochetaniya",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.258753, 43.869613",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "вт - пт - 09:00 - 13:00, 14:00 - 17:00, сб 09:00 - 13:00, 14:00 - 16:00, вс, пн - выходной",
@@ -4191,19 +4439,21 @@
             "public/img/124/image_4.jpg"
         ],
         "translitName": "Usadba-AB-Neydgarta",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": null,
         "coords": "55.426871, 44.432075",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -4223,19 +4473,21 @@
             "public/img/125/image_6.jpg"
         ],
         "translitName": "Usadba-Bazilevskikh",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": null,
         "coords": "57.628675, 45.074060",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -4253,19 +4505,21 @@
             "public/img/126/image_4.jpg"
         ],
         "translitName": "Usadba-MeshcherskikhBerdnikovykh",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": null,
         "coords": "57.863285, 45.534317",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -4284,19 +4538,21 @@
             "public/img/127/image_5.jpg"
         ],
         "translitName": "Usadebnyy-kompleks-Obolenskikh",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 6
         },
+        "city": null,
         "coords": "56.002344, 45.600895",
         "availability": "Открыт для посещения, не функционирует",
         "group": "Архитектурные памятники, заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -4315,19 +4571,21 @@
             "public/img/128/image_5.jpg"
         ],
         "translitName": "Usadebnyy-kompleks-Levashyovykh-v-Galibikhe",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": null,
         "coords": "56.752687, 45.629030",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -4345,21 +4603,23 @@
             "public/img/129/image_4.jpg"
         ],
         "translitName": "Usadba-AA-Khudyakova",
-        "city": {
-            "id": 68
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 68
+        },
         "coords": "56.487911, 43.619307",
         "availability": "Открыт для посещения только снаружи",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Временно не работает",
@@ -4377,19 +4637,21 @@
             "public/img/130/image_4.jpg"
         ],
         "translitName": "Usadba-Pashkovykh",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": null,
         "coords": "55.287397, 45.051818",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 20:00",
@@ -4408,19 +4670,21 @@
             "public/img/131/image_5.jpg"
         ],
         "translitName": "Usadba-barona-Zhomini",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": null,
         "coords": "55.252948, 45.090116",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 16:00",
@@ -4443,19 +4707,21 @@
             "public/img/132/image_9.jpg"
         ],
         "translitName": "Usadebnyy-kompleks-RepninykhVolkonskikh-v-NikoloPogoste",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 6
         },
+        "city": null,
         "coords": "56.531571, 43.629089",
         "availability": "Открыт для посещения, не функционирует",
         "group": "Архитектурные памятники, заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -4475,19 +4741,21 @@
             "public/img/133/image_6.jpg"
         ],
         "translitName": "Usadba-OrlovaDavydova-i-Tserkov-Spasa-Preobrazheniya-v-sele-Simbiley",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 10
         },
+        "city": null,
         "coords": "55.903539, 44.192575",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -4506,19 +4774,21 @@
             "public/img/134/image_5.jpg"
         ],
         "translitName": "Usadba-Kutlubitskikh",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 6
         },
+        "city": null,
         "coords": "55.303940, 44.478723",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -4539,19 +4809,21 @@
             "public/img/135/image_7.jpg"
         ],
         "translitName": "Istochnik-NikolaKlyuch",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "56.794190, 43.558794",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -4571,19 +4843,21 @@
             "public/img/136/image_6.jpg"
         ],
         "translitName": "Vodopad-na-Kudme",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "56.155470, 44.060111",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -4601,19 +4875,21 @@
             "public/img/137/image_4.jpg"
         ],
         "translitName": "Svyatoy-istochnik-v-derevne-Sartakovo",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "56.173875, 43.821160",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, природные объекты",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Земля, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -4631,19 +4907,21 @@
             "public/img/138/image_4.jpg"
         ],
         "translitName": "Ozero-Bolshoy-Kultey",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "56.411565, 45.738944",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -4663,19 +4941,21 @@
             "public/img/139/image_6.jpg"
         ],
         "translitName": "Kamennoe-urochishche-Ichalki",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 8
         },
+        "city": null,
         "coords": "55.451065, 44.467449",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля, камни",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -4694,21 +4974,23 @@
             "public/img/140/image_5.jpg"
         ],
         "translitName": "Zheleznodorozhnaya-stantsiya",
-        "city": {
-            "id": 40
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 11
         },
+        "city": {
+            "id": 40
+        },
         "coords": "55.409552, 43.790073",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, режимные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Особые условия съёмок на режимных объектах, дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -4727,19 +5009,21 @@
             "public/img/141/image_5.jpg"
         ],
         "translitName": "Kerzhenskiy-prirodnyy-zapovednik",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "56.504364, 44.807829",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешения вблизи населенного пункта",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да, вблизи населённого пункта",
         "limitation": "Да, дроны",
         "openingHours": "Круглосуточно",
@@ -4764,21 +5048,23 @@
             "public/img/142/image_9.jpg"
         ],
         "translitName": "Ulitsa-Bolshaya-Pokrovskaya",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 7
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.317868, 43.995470",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость, великолепные виды, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -4804,21 +5090,23 @@
             "public/img/143/image_9.jpg"
         ],
         "translitName": "Tserkov-Sobora-Presvyatoy-Bogoroditsy",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.327286, 43.984642",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "06:00 - 19:00",
@@ -4847,21 +5135,23 @@
             "public/img/144/image_9.jpg"
         ],
         "translitName": "Koleso-obozreniya-na-ploshchadi-Sennoy",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.324157, 44.035900",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:00 - 20:00",
@@ -4883,21 +5173,23 @@
             "public/img/145/image_8.jpg"
         ],
         "translitName": "1y-korpus-Nizhegorodskogo-tekhnicheskogo-universiteta-im-RE-Alekseeva",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.326552, 44.024662",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "пн- пт - 09:00 - 17:00, сб, вс - выходной",
@@ -4916,19 +5208,21 @@
             "public/img/146/image_5.jpg"
         ],
         "translitName": "Protivotuberkuleznyy-sanatoriy-Gorbatovskiy",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 6
         },
+        "city": null,
         "coords": "56.205451, 43.053263",
         "availability": "Открыт для посещения",
         "group": "Заброшенные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Земля",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -4949,21 +5243,23 @@
             "public/img/147/image_7.jpg"
         ],
         "translitName": "Palaty-nizhegorodskogo-kuptsa-Afansiya-Olisova-v-Zapochaine",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.325789, 43.990374",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -4982,21 +5278,23 @@
             "public/img/148/image_5.jpg"
         ],
         "translitName": "Artobekt-Kater-Geroy",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 9
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.332312, 44.009448",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -5018,21 +5316,23 @@
             "public/img/149/image_8.jpg"
         ],
         "translitName": "Dom-Petra-",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.325454, 43.995045",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -5052,21 +5352,23 @@
             "public/img/150/image_6.jpg"
         ],
         "translitName": "MikhayloArkhangelskiy-sobor",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.328319, 44.001872",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "07:30 - 19:00",
@@ -5087,21 +5389,23 @@
             "public/img/151/image_7.jpg"
         ],
         "translitName": "Ploshchad-Narodnogo-Edinstva",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.33033, 43.996878",
         "availability": "Открыт для посещения",
         "group": "Городской ландшафт",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -5122,21 +5426,23 @@
             "public/img/152/image_7.jpg"
         ],
         "translitName": "Novoyarmarochnyy-sobor",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.333714, 43.971392",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "08:00 - 19:00",
@@ -5157,21 +5463,23 @@
             "public/img/153/image_7.jpg"
         ],
         "translitName": "Dom-Khanykova",
-        "city": {
-            "id": 40
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 40
+        },
         "coords": "55.391145, 43.812274",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -5192,19 +5500,21 @@
             "public/img/154/image_7.jpg"
         ],
         "translitName": "SerafimoDiveevskiy-monastyr",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": null,
         "coords": "55.040598, 43.247010",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "05:00 - 21:00",
@@ -5230,21 +5540,23 @@
             "public/img/155/image_9.jpg"
         ],
         "translitName": "Kraevedcheskiy-muzey-v-zdanii-Narodnogo-doma-g-Kulebaki",
-        "city": {
-            "id": 497
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 497
+        },
         "coords": "55.420398, 42.526039",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, места культуры и отдыха",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "пн- чт - 11:00 - 16:00, пт - 11:00 - 15:00, сб, вс - выходной",
@@ -5264,21 +5576,23 @@
             "public/img/156/image_6.jpg"
         ],
         "translitName": "Romodanovskiy-vokzal",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.316577, 43.970651",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -5299,21 +5613,23 @@
             "public/img/157/image_7.jpg"
         ],
         "translitName": "Sobornaya-mechet-g-Nizhniy-Novgorod",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.323228, 44.037697",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "09:00 - 18:00",
@@ -5334,21 +5650,23 @@
             "public/img/158/image_7.jpg"
         ],
         "translitName": "Nizhegorodskiy-metropoliten",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.322974, 44.034741",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, режимные объекты",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Особые условия съёмок на режимных объектах, дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -5370,21 +5688,23 @@
             "public/img/159/image_8.jpg"
         ],
         "translitName": "Dom-grafini-Paninoy-g-Gorodets",
-        "city": {
-            "id": 218
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 218
+        },
         "coords": "56.642827, 43.465362",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "вт - пт - 10:00 - 17:00, сб, вс - 10:00 - 16:00, пн - выходной",
@@ -5405,21 +5725,23 @@
             "public/img/160/image_7.jpg"
         ],
         "translitName": "Dom-kultury-imChkalova-gChkalovsk",
-        "city": {
-            "id": 1068
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 1068
+        },
         "coords": "56.763909, 43.265855",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, места культуры и отдыха",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "вт - вс - 09:00 - 17:00, пн - выходной",
@@ -5439,21 +5761,23 @@
             "public/img/161/image_6.jpg"
         ],
         "translitName": "Petropavlovskaya-tserkov-g-Nizhniy-Novgorod",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.315206, 44.006516",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "пн - сб - 07:00 - 18:00, вс - 07:00 - 17:00 ",
@@ -5474,21 +5798,23 @@
             "public/img/162/image_7.jpg"
         ],
         "translitName": "Dom-Burmistrovoy",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.325913, 44.026037",
         "availability": "Находится на реставрации",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Временно не работает",
@@ -5514,21 +5840,23 @@
             "public/img/163/image_9.jpg"
         ],
         "translitName": "Zdanie-tserkovnoprikhodskoy-shkoly",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.356961, 43.865409",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -5545,19 +5873,21 @@
             "public/img/164/image_3.jpg"
         ],
         "translitName": "Usadba-OstermanTolstykh",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": null,
         "coords": "55.991264, 44.013119",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -5578,21 +5908,23 @@
             "public/img/165/image_7.jpg"
         ],
         "translitName": "Nizhegorodskiy-gosudarstvennyy-khudozhestvennyy-muzey",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.329552, 44.0064",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "вт, ср - 10:00 - 18:00, чт - 12:00 - 20:00, пт, сб, вс - 11:00 - 19:00, пн - выходной",
@@ -5611,21 +5943,23 @@
             "public/img/167/image_5.jpg"
         ],
         "translitName": "SpasoPreobrazhenskiy-sobor",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.349879, 43.872102",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "07:30 - 18:30",
@@ -5644,19 +5978,21 @@
             "public/img/168/image_5.jpg"
         ],
         "translitName": "Reka-Vetluga",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 2
         },
+        "city": null,
         "coords": "57.106940, 45.191120",
         "availability": "Открыт для посещения",
         "group": "Природные объекты",
         "feature": "Великолепные виды",
         "roadSurface": "Земля, песок",
-        "drones": "Разрешение не требуется",
+        "dronesType": {
+            "id": 1
+        },
         "requiresPermissions": "Нет",
         "limitation": "Нет",
         "openingHours": "Круглосуточно",
@@ -5674,19 +6010,21 @@
             "public/img/169/image_4.jpg"
         ],
         "translitName": "Muzeynoturistskiy-kompleks-Grad-Kitezh",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": null,
         "coords": "56.818457, 45.114496",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, места культуры и отдыха",
         "feature": "Историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "вт - вс - 10:00 - 16:00, пн - выходной",
@@ -5703,19 +6041,21 @@
             "public/img/170/image_3.jpg"
         ],
         "translitName": "Tserkov-Ikony-Bozhiey-Materi-Kazanskaya-v-Khmelyovke",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": null,
         "coords": "56.140347, 46.036997",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, великолепные виды",
         "roadSurface": "Земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -5736,21 +6076,23 @@
             "public/img/171/image_7.jpg"
         ],
         "translitName": "Nizhegorodskiy-muzey-tramvaev-i-trolleybusov",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.301582, 44.048243",
         "availability": "Временно закрыт для посещения",
         "group": "Места культуры и отдыха",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Временно не работает",
@@ -5771,19 +6113,21 @@
             "public/img/172/image_7.jpg"
         ],
         "translitName": "Muzhskoy-monastyr-VysokoUspenskaya-pustyn-v-Koverninskom-rayone",
-        "city": null,
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": null,
         "coords": "57.396370, 43.919356",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, земля",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -5831,21 +6175,23 @@
             "public/img/173/image_9.jpg"
         ],
         "translitName": "Muzeykvartira-AM-Gorkogo",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.322769, 44.018617",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, места культуры и отдыха",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "вт, ср, пт, сб, вс - 09:00 - 17:00, пн, чт - выходной",
@@ -5874,21 +6220,23 @@
             "public/img/174/image_9.jpg"
         ],
         "translitName": "Nizhegorodskiy-gosudarstvennyy-akademicheskiy-teatr-opery-i-baleta-imeni-A-S-Pushkina",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.31576, 44.017009",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "10:30 - 14:00, 14:30 - 20:00",
@@ -5914,21 +6262,23 @@
             "public/img/175/image_9.jpg"
         ],
         "translitName": "Dom-narodnogo-edinstva-v-parke-ASPushkina",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 17
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.30855, 43.998809",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, места культуры и отдыха",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "пн - чт - 09:00 - 18:00, пт - 09:00 - 17:00, сб, вс - выходной ",
@@ -5949,21 +6299,23 @@
             "public/img/176/image_7.jpg"
         ],
         "translitName": "Usadba-NP-Vagina",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.323033, 43.991353",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "График работы не указан",
@@ -6014,21 +6366,23 @@
             "public/img/177/image_9.jpg"
         ],
         "translitName": "Dom-Dmitriya-Sirotkina",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 3
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.329382, 44.01276",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "вт, ср - 10:00 - 18:00, чт - 12:00 - 20:00, пт, сб, вс - 11:00 - 19:00, пн - выходной",
@@ -6078,21 +6432,23 @@
             "public/img/178/image_9.jpg"
         ],
         "translitName": "Byvshaya-fabrika-Mayak",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 1
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.329662, 43.992871",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники, места культуры и отдыха",
         "feature": "Историческая значимость",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "пн - пт - 09:00 - 18:00, сб, вс - выходной",
@@ -6113,21 +6469,23 @@
             "public/img/179/image_7.jpg"
         ],
         "translitName": "Armyanskaya-tserkov-Surb-Amenaprkich",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 18
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.315321, 43.978956",
         "availability": "Открыт для посещения",
         "group": "Архитектурные памятники",
         "feature": "Историческая значимость, уникальный рельеф",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "09:00 - 18:00 ",
@@ -6151,21 +6509,23 @@
             "public/img/180/image_9.jpg"
         ],
         "translitName": "VerkhneOkskaya-naberezhnaya-v-Nizhnem-Novgorode",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 19
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.326348, 43.987481",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
@@ -6189,21 +6549,23 @@
             "public/img/180/image_9.jpg"
         ],
         "translitName": "VerkhneOkskaya-naberezhnaya-v-Nizhnem-Novgorode",
-        "city": {
-            "id": 652
-        },
         "locationsTypes": {
             "id": 1
         },
         "locationsSubTypes": {
             "id": 19
         },
+        "city": {
+            "id": 652
+        },
         "coords": "56.326348, 43.987481",
         "availability": "Открыт для посещения",
         "group": "Места досуга и отдыха",
         "feature": "Великолепные виды",
         "roadSurface": "Асфальт, брусчатка",
-        "drones": "Требуется разрешение ",
+        "dronesType": {
+            "id": 3
+        },
         "requiresPermissions": "Да",
         "limitation": "Дроны, нельзя проводить массовые мероприятия без согласования",
         "openingHours": "Круглосуточно",
