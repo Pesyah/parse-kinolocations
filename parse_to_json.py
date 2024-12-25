@@ -126,7 +126,7 @@ def parse_excel_to_json(file_path, output_json_path, photo_column, fields_to_inc
         del record['Тип локации']
         
         if cities.count(record['Город']) == 0:
-            record['city'] = None
+            record['city'] = { "id": 68 }
         else:
             record['city'] = { "id": cities.index(record['Город']) + 1}
         del record['Город']
