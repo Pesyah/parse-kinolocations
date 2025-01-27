@@ -45,60 +45,15 @@ def parse_excel_to_json(file_path, output_json_path, photo_column, fields_to_inc
     
     if exclude_empty:
         data = data.dropna(how='all')
-    
+
     data_json = data.to_dict(orient='records')
-    locationsSubTypes = [
-        "Достопримечательность",
-        'Зеленый "уголок"',
-        "Усадьбы, памятники архитектуры",
-        "Спортивные сооружения",
-        "Промышленные зоны",
-        "Заброшенные и недостроенные объекты",
-        "Городские площади, улицы",
-        "Поля и карьеры",
-        "Арт-объекты",
-        "Усадьбы, памятники архитектуры, храмы и монастыри",
-        "Вокзалы",
-        "Парки",
-        "Памятник",
-        "Мосты",
-        "Канатная дорога",
-        "Аэропорт",
-        "Учреждения культуры",
-        "Храмы и монастыри",
-        "Набережные"
-    ]
-    locationsSUBTYPES = {
-        'Достопримечательность, зеленые "уголки"': 2,
-        'Усадьбы, памятники архитектуры': 3,
-        'Спортивные сооружения': 4,
-        'Промышленные зоны': 5,
-        'Зеленые "уголки"': 2,
-        'Усадьбы, памятники архитектуры, заброшенные и недостроенные объекты': 6,
-        'Зеленые «уголки»': 2,
-        'Заброшенные и недостроенные объекты': 6,
-        'Городские площади, улицы': 7,
-        'Достопримечательность': 1,
-        'Поля и карьеры': 8,
-        'Арт-объекты': 9,
-        'Усадьбы, памятники архитектуры, храмы и монастыри': 10,
-        'Вокзалы': 11,
-        'Парки': 12,
-        'Памятник': 13,
-        'Мосты': 14,
-        'Канатная дорога': 15,
-        'Аэропорт': 16,
-        'Учреждения культуры': 17,
-        'Храмы и монастыри': 18,
-        'Набережные': 19
-    }
     for record in data_json:
         direct = record[photo_column]
         photos = []
         for photo in os.listdir(direct):
             photos.append(f'public/{direct}/{photo}')
+        record['avatar'] = photos[0]
         record[photo_column] = photos
-    print(list(set([x['Работа с дронами'] for x in data_json])))
     for record in data_json:
         if type(record['Название']).__name__ != 'str':
             record['Название'] = 'null'
@@ -120,42 +75,82 @@ def parse_excel_to_json(file_path, output_json_path, photo_column, fields_to_inc
         del record['Фото']
 
         record['translitName'] = transliterate(record['name'])
-        record['locationsTypes'] = {"id": 1}
+        record['locationsTypes'] = [{"id": 1}, {"id": 2}]
+        if 'портивные' in record['Группа локации']:
+            print(record['name'])
+        if 'рхитектур' in record['Группа локации']:
+            record['locationsSubTypes'] = {"id": 13}
+        elif 'Природные' in record['Группа локации']:
+            record['locationsSubTypes'] = {"id": 15}
+        elif 'Зеленые' in record['Группа локации']:
+            record['locationsSubTypes'] = {"id": 15}
+        elif 'Заброшенные' in record['Группа локации']:
+            record['locationsSubTypes'] = {"id": 14}
+        elif 'Учреждения культуры' in record['Группа локации']:
+            record['locationsSubTypes'] = {"id": 17}
+        elif 'ородской' in record['Группа локации']:
+            record['locationsSubTypes'] = {"id": 18}
+        else:
+            record['locationsSubTypes'] = {"id": 20}
+        del record['Группа локации']
 
-        record['locationsSubTypes'] = {"id": locationsSUBTYPES[record['Тип локации']]}
-        del record['Тип локации']
-        
+        if 'русчатка' in record['Дорожное покрытие']:
+            record['locationsRoadSurface'] = {"id": 3}
+        elif 'сфальт' in record['Дорожное покрытие']:
+            record['locationsRoadSurface'] = {"id": 1}
+        else:
+            record['locationsRoadSurface'] = {"id": 4}
+        del record['Дорожное покрытие']
+
+        record['locationsRequiredPermissions'] = record['Требует разрешений']
+        if 'Да' in record['Требует разрешений']:
+            record['locationsRequiredPermissions'] = {"id": 2}
+        else:
+            record['locationsRequiredPermissions'] = {"id": 1}
+        del record['Требует разрешений']
+
         if cities.count(record['Город']) == 0:
             record['city'] = { "id": 68 }
         else:
             record['city'] = { "id": cities.index(record['Город']) + 1}
         del record['Город']
+        if 'открыт' in record['Доступность'] or 'Открыт' in record['Доступность']:
+            record['locationsAccessibility'] = {"id": 1}
+        else:
+            record['locationsAccessibility'] = {"id": 3}
+        del record['Доступность']
+
         record['coords'] =              record['Координаты']
-        record['availability'] =        record['Доступность']
-        record['group'] =               record['Группа локации']
-        record['feature'] =             record['Особенности']
-        record['roadSurface'] =         record['Дорожное покрытие']
+        record['locationFeatures'] =    record['Особенности']
         if record['Работа с дронами'] == 'Требуется разрешения вблизи населенного пункта'\
-            or record['Работа с дронами'] == 'Требуется разрешение ':
+            or record['Работа с дронами'].strip() == 'Требуется разрешение':
             record['dronesType'] = { "id": 3 }
         else:
             record['dronesType'] = { "id": 1 }
-        record['requiresPermissions'] = record['Требует разрешений']
-        record['limitation'] =          record['Ограничения']
-        record['openingHours'] =        record['Часы работы']
+        del record['Работа с дронами']
+
+        record['locationsRestrictions'] = {"id": 5}
+        record['locationsBackgroundLandscape'] = {"id": 11}
+        record['locationsTrees'] = {"id": 6}
+        record['locationsSunriseView'] = {"id": 5}
+        record['locationsTransportAvailability'] = [{"id": 8}]
+        record['locationsParking'] = {"id": 6}
+
+
+        record['status'] = {"id": 4}
+
+
+        record['workingHours'] =        record['Часы работы']
         record['buildingsNearby'] =     record['Здания поблизости']
         record['additionalFeatures'] =  record['Дополнительные возможности']
+
         del record['Координаты']
-        del record['Доступность']
-        del record['Группа локации']
         del record['Особенности']
-        del record['Дорожное покрытие']
-        del record['Работа с дронами']
-        del record['Требует разрешений']
         del record['Ограничения']
         del record['Часы работы']
         del record['Здания поблизости']
         del record['Дополнительные возможности']
+        del record['Тип локации']
 
     # Сохранение JSON в файл
     with open(output_json_path, 'w', encoding='utf-8') as json_file:
